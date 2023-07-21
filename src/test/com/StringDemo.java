@@ -1,0 +1,21 @@
+package test.com;
+
+public class StringDemo {
+	public static void main(String[] args) {
+		
+		StringDemo string = new StringDemo ();
+	
+	 
+	        String s = "Sachin";
+	       
+	        // concat() method appends
+	        // the string at the end
+	        s.concat(" Tendulkar");
+	       
+	        // This will print Sachin
+	        // because strings are
+	        // immutable objects
+	        System.out.println(" Name :"+ s);
+	    }
+	}
+
