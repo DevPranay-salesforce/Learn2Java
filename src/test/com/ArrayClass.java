@@ -10,7 +10,7 @@ public class ArrayClass {
 	// int[] numbers = new int[5]; // Declaration and initialization with size 5
 		
 
-	// Initializing with values
+	// Initializing with values new dataaaaa  132132131313131313
 	int[] numbers = { 1, 2, 3, 4, 5 };
 	
 	System.out.println(numbers[4]);
